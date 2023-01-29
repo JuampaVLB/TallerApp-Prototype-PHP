@@ -1,0 +1,283 @@
+[
+    {
+        "id": 1,
+        "nombre": "alargue",
+        "stock": 100
+    },
+    {
+        "id": 4,
+        "nombre": "alicate Corte Oblicuo"
+    },
+    {
+        "id": 7,
+        "nombre": "Alicate Grande"
+    },
+    {
+        "id": 10,
+        "nombre": "Amoladora"
+    },
+    {
+        "id": 13,
+        "nombre": "Ampirometrica"
+    },
+    {
+        "id": 16,
+        "nombre": "Antiparra"
+    },
+    {
+        "id": 19,
+        "nombre": "Barbijos"
+    },
+    {
+        "id": 22,
+        "nombre": "Caladora de Mano"
+    },
+    {
+        "id": 25,
+        "nombre": "Calibre"
+    },
+    {
+        "id": 28,
+        "nombre": "Capacimetro"
+    },
+    {
+        "id": 31,
+        "nombre": "Cepillo de Acero"
+    },
+    {
+        "id": 34,
+        "nombre": "Cinta Aisladora"
+    },
+    {
+        "id": 37,
+        "nombre": "Cinta Metrica"
+    },
+    {
+        "id": 40,
+        "nombre": "Delantal de Cuero"
+    },
+    {
+        "id": 43,
+        "nombre": "Desoldador a Piston"
+    },
+    {
+        "id": 46,
+        "nombre": "Destornillador Philips"
+    },
+    {
+        "id": 49,
+        "nombre": "Destornillador Plano"
+    },
+    {
+        "id": 52,
+        "nombre": "Disco de Amolar"
+    },
+    {
+        "id": 55,
+        "nombre": "Disco de Corte"
+    },
+    {
+        "id": 58,
+        "nombre": "Electrodos"
+    },
+    {
+        "id": 61,
+        "nombre": "Escofina"
+    },
+    {
+        "id": 64,
+        "nombre": "Escuadra"
+    },
+    {
+        "id": 67,
+        "nombre": "Escuadradora"
+    },
+    {
+        "id": 69,
+        "nombre": "estano"
+    },
+    {
+        "id": 2,
+        "nombre": "Formon"
+    },
+    {
+        "id": 5,
+        "nombre": "Generador de Funciones"
+    },
+    {
+        "id": 8,
+        "nombre": "Guantes de Cuero"
+    },
+    {
+        "id": 11,
+        "nombre": "Guantes de Moteados"
+    },
+    {
+        "id": 14,
+        "nombre": "Gubias"
+    },
+    {
+        "id": 17,
+        "nombre": "Lijadora de Banda"
+    },
+    {
+        "id": 20,
+        "nombre": "Lijadora de Orbital"
+    },
+    {
+        "id": 23,
+        "nombre": "Lima 1/2 Cana"
+    },
+    {
+        "id": 26,
+        "nombre": "Lima Plana"
+    },
+    {
+        "id": 29,
+        "nombre": "Llave de Madril"
+    },
+    {
+        "id": 32,
+        "nombre": "LLave Francesa"
+    },
+    {
+        "id": 35,
+        "nombre": "Martillo Bolita"
+    },
+    {
+        "id": 38,
+        "nombre": "Martillo de Pena"
+    },
+    {
+        "id": 41,
+        "nombre": "Maza de Metal"
+    },
+    {
+        "id": 44,
+        "nombre": "Mascara Facial"
+    },
+    {
+        "id": 47,
+        "nombre": "Mascara Fotosensible"
+    },
+    {
+        "id": 50,
+        "nombre": "Mascara para Soldar"
+    },
+    {
+        "id": 53,
+        "nombre": "Maso de Goma"
+    },
+    {
+        "id": 56,
+        "nombre": "Maso de Madera"
+    },
+    {
+        "id": 59,
+        "nombre": "Mecha"
+    },
+    {
+        "id": 62,
+        "nombre": "Minitorno"
+    },
+    {
+        "id": 65,
+        "nombre": "Osciloscopio"
+    },
+    {
+        "id": 68,
+        "nombre": "Pie Metalico"
+    },
+    {
+        "id": 70,
+        "nombre": "Pinza de Fuerza"
+    },
+    {
+        "id": 3,
+        "nombre": "Pinza de Punta"
+    },
+    {
+        "id": 6,
+        "nombre": "Pinza Crimpeadora"
+    },
+    {
+        "id": 9,
+        "nombre": "Pinza Pico de Loro"
+    },
+    {
+        "id": 12,
+        "nombre": "Pinza Universal"
+    },
+    {
+        "id": 15,
+        "nombre": "Protector Auditivo"
+    },
+    {
+        "id": 18,
+        "nombre": "Protoboard"
+    },
+    {
+        "id": 21,
+        "nombre": "Punta de Trazo"
+    },
+    {
+        "id": 24,
+        "nombre": "Remachadora"
+    },
+    {
+        "id": 27,
+        "nombre": "Sargento Prensa"
+    },
+    {
+        "id": 30,
+        "nombre": "Serrucho de Costilla"
+    },
+    {
+        "id": 33,
+        "nombre": "Serrucho Ordinario"
+    },
+    {
+        "id": 36,
+        "nombre": "Sierra Circular"
+    },
+    {
+        "id": 39,
+        "nombre": "Sierra de Mano"
+    },
+    {
+        "id": 42,
+        "nombre": "Soldado 40W con Apoya"
+    },
+    {
+        "id": 45,
+        "nombre": "Soldado Electrica"
+    },
+    {
+        "id": 48,
+        "nombre": "Taladro de Mano"
+    },
+    {
+        "id": 51,
+        "nombre": "Taladro Inalambrico"
+    },
+    {
+        "id": 54,
+        "nombre": "Tenaza"
+    },
+    {
+        "id": 57,
+        "nombre": "Tester Digital"
+    },
+    {
+        "id": 60,
+        "nombre": "Tester de Red"
+    },
+    {
+        "id": 63,
+        "nombre": "Tijera Corte Curvo"
+    },
+    {
+        "id": 66,
+        "nombre": "Tijera Corte Recto"
+    }
+]
